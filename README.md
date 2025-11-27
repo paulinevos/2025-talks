@@ -470,5 +470,25 @@ By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)
 
 ---
 
+## Vibe-Free Zone: Serious AI Assisted Development for Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>No buzzwords, no magic solutions, just proven techniques for setting up AI code assistants that actually help. We'll cover prompt and context engineering strategies that work with Symfony patterns, configure your development environment for maximum productivity, and deploy intelligently to Upsun. Live coding included.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)  
+💻 on [![github](icon/github.svg) @gmoigneu](https://github.com/gmoigneu)
+· [![gitlab](icon/gitlab.svg) @gmoigneu](https://gitlab.com/gmoigneu)  
+✍ [🌐 guillaume.id/articles](https://guillaume.id/articles)  
+💬 on [![twitter](icon/twitter.svg) @guillaumedotid](https://twitter.com/guillaumedotid)
+· [![linkedin](icon/linkedin.svg) @guillaumemoigneu](https://www.linkedin.com/in/guillaumemoigneu)
+
+---
+
 
 (this is work in progress)
