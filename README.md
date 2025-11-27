@@ -490,5 +490,25 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 
 ---
 
+## Coping With a Bad Sequel: SELECT * FROM Regret
+
+<dl>
+  <dt>Description</dt>
+  <dd>SQL has been around longer than most of us have been writing code—and it shows. Originally built for tidy tables and straightforward joins, it’s now being stretched to handle JSON documents, arrays, and even composite types. Meanwhile, so-called “NoSQL” databases are sneaking SQL in through the back door. In this talk, we’ll take a slightly ranty tour through the history of SQL, the rise of document databases like MongoDB and CouchDB, and the awkward state of modern query languages. If you’ve ever tried updating a nested JSONB field in MySQL and thought, “there has to be a better way”—this one’s for you.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Andreas Braun](https://connect.symfony.com/profile/alcaeus)  
+💻 on [![github](icon/github.svg) @alcaeus](https://github.com/alcaeus)  <sup>[💚](https://github.com/sponsors/alcaeus)</sup>  
+_✍ blog not found_  
+💬 on [![bluesky](icon/bluesky.svg) @alcaeus79.bsky.social](https://bsky.app/profile/alcaeus79.bsky.social)
+· [![twitter](icon/twitter.svg) @alcaeus](https://twitter.com/alcaeus)
+· [![linkedin](icon/linkedin.svg) @andreas-b-…](https://linkedin.com/in/andreas-b-38b929252)
+
+---
+
 
 (this is work in progress)
