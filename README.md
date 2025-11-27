@@ -361,4 +361,35 @@ _✍ blog not found_
 
 ---
 
+## Rediscover the Console
+
+<dl>
+  <dt>Description</dt>
+  <dd>Console is one of the most widely used Symfony components and ranks among the top 5 most downloaded PHP packages worldwide.
+
+Used by essential tools such as Composer, PHPStan, and Psalm, as well as by most PHP frameworks, CMS, e-commerce platforms, and ultimately our end applications, the console is ubiquitous.
+
+The more a package is used, the more difficult it is to evolve. The slightest bug fix on the Console can disrupt millions of users. Nevertheless, the component has been constantly improved thanks to the countless contributions it has received since its introduction in 2010, while remaining true to its promise of backward compatibility.
+
+But it's time to give the Console a major facelift, not only to get rid of some limitations and other design issues, but also to open it up to new possibilities.
+That's why a few key contributors have been working hard to redesign it.
+
+It's available since Symfony 7.3, and will get even better in a future version.
+Join me to rediscover the Console!</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
+💻 on [![github](icon/github.svg) @chalasr](https://github.com/chalasr)  <sup>[💚](https://github.com/sponsors/chalasr)</sup>  
+✍ on [🌐 baksla.sh/blog](https://baksla.sh/blog)  
+💬 on [![bluesky](icon/bluesky.svg) @chalasr.bsky.social](https://bsky.app/profile/chalasr.bsky.social)
+· [![twitter](icon/twitter.svg) @chalas_r](https://twitter.com/chalas_r)
+· [![mastodon](icon/mastodon.svg) @chalasr@phpc.social](https://phpc.social/@chalasr)
+· [![linkedin](icon/linkedin.svg) @robinchalas](https://linkedin.com/in/robinchalas)
+
+---
+
 (this is work in progress)
