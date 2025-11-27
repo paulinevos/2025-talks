@@ -410,4 +410,23 @@ _✍ blog not found_
 
 ---
 
+## Multi-Tenantize the Symfony components
+
+<dl>
+  <dt>Description</dt>
+  <dd>Creating multi-tenant applications is a common task but there are many pitfalls such as using the messenger, scheduler, cache, and other Symfony components which are designed for a single tenant application by default. In this talk, we go through how you can extend these components using configs, PSRs, middleware, etc to make these components work in a multi-tenant fashion.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Iain Cambridge](https://connect.symfony.com/profile/icambridge)  
+💻 on [![github](icon/github.svg) @that-guy-iain](https://github.com/that-guy-iain)  
+✍ on [🌐 iain.rocks/blog](https://iain.rocks/blog/)  <sup>[![rss](icon/rss.svg)](https://iain.rocks/feed.xml)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @iain.bsky.social](https://bsky.app/profile/iain.bsky.social)
+· [![linkedin](icon/linkedin.svg) @iain-cambridge](https://linkedin.com/in/iain-cambridge)
+
+---
+
 (this is work in progress)
