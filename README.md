@@ -447,4 +447,28 @@ _✍ blog not found_
 
 ---
 
+## Code and Conscience: Ethical Docs for AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>AI features are rapidly becoming a core part of many modern web applications, including those built with frameworks like Symfony. As technical writers, our role goes beyond simply explaining how things work - we help build user trust by documenting AI features with transparency and ethical care.
+
+In this talk, I’ll share practical approaches to crafting AI documentation that honestly communicates AI’s capabilities and limitations, highlights bias and privacy concerns, and empowers users to engage responsibly with intelligent systems. Drawing from real-world examples and best practices, I’ll show how to write docs that promote clarity, fairness, and user confidence across diverse technical audiences.
+
+Whether you’re working with Symfony or other tech stacks, this session will equip you to evolve your documentation for the AI era - helping teams deliver not just functional products, but ethical ones.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)  
+💻 on [![github](icon/github.svg) @Kemi-Elizabeth](https://github.com/Kemi-Elizabeth)  
+✍ on [🌐 theliterarycoder.substack.com](https://theliterarycoder.substack.com)  <sup>[![rss](icon/rss.svg)](https://theliterarycoder.substack.com/feed)</sup>  
+💬 on [![twitter](icon/twitter.svg) @literary_coder](https://twitter.com/literary_coder)
+· [![linkedin](icon/linkedin.svg) @kemi-elizabeth-ojogbede-…](https://linkedin.com/in/kemi-elizabeth-ojogbede-629010156)
+
+---
+
+
 (this is work in progress)
