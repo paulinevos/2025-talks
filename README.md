@@ -47,3 +47,33 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 · [![mastodon](icon/mastodon.svg) @soyuka@phpc.social](https://phpc.social/@soyuka)
 · [![twitter](icon/twitter.svg) @s0yuka](https://x.com/s0yuka)
 · [![linkedin](icon/linkedin.svg) @soyuka](https://www.linkedin.com/in/soyuka)
+
+---
+
+## Orchestrating Mobility with Symfony — Smooth Ride Guaranteed! 🚕
+
+<dl>
+  <dt>Description</dt>
+  <dd>How can you fairly distribute thousands of taxi rides each month while respecting complex business rules and ensuring both performance and scalability? That’s the challenge we tackled with Winbook, our ride allocation engine built entirely in PHP with Symfony.
+
+In this talk, I’ll take you behind the scenes of this production system, which handles a significant and growing volume of rides. We’ll explore how we leveraged Symfony components like Scheduler, Messenger, Notifier, and API Platform to build a robust, responsive, and scalable architecture.
+
+We’ll cover:
+* The business rules that drive ride allocation (such as local taxi licenses, driver behavior, etc.)
+* The algorithmic choices made to ensure fairness and efficiency
+* The technical challenges of implementing a real-time engine in PHP
+
+This talk is for anyone who believes PHP can be both powerful and performant — and who enjoys seeing real-world code solving real-world problems.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
+💻 on [![github](icon/github.svg) @lolautruche](https://github.com/lolautruche)  
+✍ on ~~🌐 No blog yet?~~  
+💬 on [![bluesky](icon/bluesky.svg) @lolautruche.bsky.social](https://bsky.app/profile/lolautruche.bsky.social)
+· [![mastodon](icon/mastodon.svg) @lolautruche@piaille.fr](https://piaille.fr/@lolautruche)
+· [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
+· [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://www.linkedin.com/in/jeromevieilledent)
