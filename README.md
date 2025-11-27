@@ -212,4 +212,39 @@ _✍ blog not found_
 
 ---
 
+## ClickHouse for Symfony developers
+
+<dl>
+  <dt>Description</dt>
+  <dd>While most PHP applications rely on traditional row-oriented databases, many modern applications require processing massive amounts of data for analytics, logging, and metrics – areas where conventional databases struggle. This becomes even more apparent when you need real-time performance at scale.
+
+ClickHouse is a powerful column-oriented database that can save you significant time when aggregating data in real-time, all without leaving the comfort of your technology stack.
+
+In this talk we'll explore :
+- Why column-oriented databases are game-changers for analytical workloads
+- How to integrate ClickHouse with Symfony applications using recommended practices
+- Real-world architecture patterns that effectively combine traditional databases with ClickHouse
+- How to deploy ClickHouse with just a few lines of code
+- Key ClickHouse features for building real-time dashboards
+- Concrete aggregation examples with benchmarks comparing ClickHouse to other solutions
+
+We'll also cover advanced features like cold storage, replication, and practical optimization tricks learned from production experience.
+
+Whether you're working with e-commerce applications, logs, user events, IoT data, or business metrics, this talk will equip you with the knowledge to implement ClickHouse as a powerful addition to your PHP development toolkit.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~  
+[Demo project · ClickHouse for Symfony Developers](https://github.com/romainneutron/clickhouse-symfony-symfonycon2025)
+
+By [Romain Neutron](https://connect.symfony.com/profile/romain)  
+💻 on [![github](icon/github.svg) @romainneutron](https://github.com/romainneutron)  
+_✍ blog not found_  
+💬 on [![bluesky](icon/bluesky.svg) @neutron.io](https://bsky.app/profile/neutron.io)
+· [![twitter](icon/twitter.svg) @romainneutron](https://twitter.com/romainneutron)
+· [![linkedin](icon/linkedin.svg) @romainneutron](https://linkedin.com/in/romainneutron)
+
+---
+
 (this is work in progress)
