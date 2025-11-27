@@ -72,7 +72,7 @@ This talk is for anyone who believes PHP can be both powerful and performant —
 
 By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
 💻 on [![github](icon/github.svg) @lolautruche](https://github.com/lolautruche)  
-✍ on ~~🌐 No blog yet?~~  
+_✍ blog not found_  
 💬 on [![bluesky](icon/bluesky.svg) @lolautruche.bsky.social](https://bsky.app/profile/lolautruche.bsky.social)
 · [![mastodon](icon/mastodon.svg) @lolautruche@piaille.fr](https://piaille.fr/@lolautruche)
 · [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
@@ -170,6 +170,26 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 ✍ on [🌐 alexandre.salome.fr/blog](https://alexandre.salome.fr/blog/)  
 💬 on [![twitter](icon/twitter.svg) @alexandresalome](https://twitter.com/alexandresalome)
 · [![linkedin](icon/linkedin.svg) @alexandresalome](https://www.linkedin.com/in/alexandresalome)
+
+---
+
+## From Runtime to Resilience: Scaling PHP
+
+<dl>
+  <dt>Description</dt>
+  <dd>Scaling PHP is about resilience and performance, not just traffic. This talk covers live demos of optimising the PHP runtime, tuning configs, and measuring FrankenPHP and PHP-FPM with tools like OpenMetrics, Grafana, and k6. Additionally, you’ll learn to avoid design flaws, architect for scalability, and gain the mindset to confidently scale PHP applications.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~  
+[Code](https://github.com/dragoonis/symfonycon-2025-scaling)
+
+By [Paul Dragoonis](https://connect.symfony.com/profile/dragoonis)  
+💻 on [![github](icon/github.svg) @dragoonis](https://github.com/dragoonis)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @dr4goonis](https://twitter.com/dr4goonis)
+· [![linkedin](icon/linkedin.svg) @pauldragoonis](https://linkedin.com/in/pauldragoonis)
 
 ---
 
