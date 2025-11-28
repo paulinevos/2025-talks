@@ -804,5 +804,23 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
 
 ---
 
+## Cloud-Agnostic AI Agents with Clean Architecture
+
+<dl>
+  <dt>Description</dt>
+  <dd>Large Language Models are powerful, but making them useful in enterprise contexts requires more than just prompts. In this session, we’ll explore how Clean Architecture principles enable the design of cloud-agnostic AI agents, with RAG as a guiding use case, ensuring portability, compliance, and sovereignty without sacrificing innovation.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Alejandro REYES AMARO](https://connect.symfony.com/profile/alejandro_reyes)  
+💻 on [![github](icon/github.svg) @alrey-smile](https://github.com/alrey-smile)  
+✍ on [🌐 medium.com/@alejandro.r.amaro](https://medium.com/@alejandro.r.amaro)  <sup>[![rss](icon/rss.svg)](https://medium.com/feed/@alejandro.r.amaro)</sup>  
+💬 on [![linkedin](icon/linkedin.svg) @reyes-amaro-alejandro](https://linkedin.com/in/reyes-amaro-alejandro)
+
+---
+
 
 (this is work in progress)
