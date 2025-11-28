@@ -531,5 +531,28 @@ By [Soner Sayakci](https://connect.symfony.com/profile/shyim)
 
 ---
 
+## Symfony AI in Action
+
+<dl>
+  <dt>Description</dt>
+  <dd>At first AI is a ton of buzzwords and hype, but how do we integrate AI in our existing products / software projects in a meaningful and realistic manner?
+Let's have a look how Symfony AI enables us to bring AI-based or even agentic features, not only chatbots, into our PHP applications or scaled architecture.
+If you are looking for input on how to approach AI, need ideas where to get started or find out what's realistic at first - let this talk be your inspiration!</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Christopher Hertel](https://connect.symfony.com/profile/chertel)  
+💻 on [![github](icon/github.svg) @chr-hertel](https://github.com/chr-hertel)  
+✍ on [🌐 christopher-hertel.de](https://christopher-hertel.de/)  
+💬 on [![twitter](icon/twitter.svg) @el_stoffel](https://twitter.com/el_stoffel)
+· [![mastodon](icon/mastodon.svg) @chris@phpc.social](https://phpc.social/@chris)
+· [![bluesky](icon/bluesky.svg) @chr-hertel.bsky.social](https://bsky.app/profile/chr-hertel.bsky.social)
+· [![linkedin](icon/linkedin.svg) @christopher-hertel](https://linkedin.com/in/christopher-hertel)
+
+---
+
 
 (this is work in progress)
