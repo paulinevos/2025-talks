@@ -835,7 +835,7 @@ By [Alejandro REYES AMARO](https://connect.symfony.com/profile/alejandro_reyes)
 If you want to take your understanding of the messenger component to the next level, this talk is for you!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/kriswallsmith/unleash-the-power-of-symfony-messenger)  
 ~~Video~~  
 ~~Blog post~~
 
