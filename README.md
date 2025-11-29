@@ -709,7 +709,7 @@ In this talk, we will:
 Whether you’re coming from v2.6 or just starting out, this talk will help you stop fighting the framework… and finally enjoy its full power.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.canva.com/design/DAG4sM7icQg/87eWtXUy1HrFoj6tL3FU3Q/view)  
 ~~Video~~  
 ~~Blog post~~
 
