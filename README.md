@@ -544,7 +544,7 @@ Let's have a look how Symfony AI enables us to bring AI-based or even agentic fe
 If you are looking for input on how to approach AI, need ideas where to get started or find out what's realistic at first - let this talk be your inspiration!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/el_stoffel/symfony-ai-in-action)  
 ~~Video~~  
 ~~Blog post~~
 
