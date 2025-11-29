@@ -939,7 +939,7 @@ By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
   <dd>Add semantic search to Symfony by leveraging RAG approaches, open-source LLMs and Symfony AI. Lessons learned from an automotive PoC, architecture, pitfalls, and moving beyond keywords to intent.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/llupa/talks/blob/main/SymfonyCon-2025-From-keywords-to-intent.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
